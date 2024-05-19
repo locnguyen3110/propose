@@ -140,7 +140,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
         case 7:
            
-            document.getElementById('noBtn').innerHTML = 'Em xin thua!';
+            document.getElementById('noBtn').innerHTML = 'Nút bên kìa';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
 
